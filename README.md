@@ -1,7 +1,10 @@
-<h2>Classroom Routine (Wordpress Plugin)</h2>
+# Classroom Routine (Wordpress Plugin)
 
-<h4>Beschreibung:</h4>
-Visuelles Tages-Board mit Icons, Texten, pro-Benutzer-Speicherung, Plus-Button und Speichern/Laden-Menü unten rechts.
+## Beschreibung
+Visuelles Tages-Board mit Icons, Texten, pro-Benutzer-Speicherung, Plus-Button und Speichern/Laden-Menü.
 
-<h4>Shortcode:</h4>
+## Shortcode
 <code>[classroom_routine]</code>
+
+## Screenshot
+<img src="https://www.widgo.ch/wp-content/uploads/2025/12/Widgets_Routine-768x384.png" style="width:500px"><img>
